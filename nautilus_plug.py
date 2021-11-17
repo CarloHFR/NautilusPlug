@@ -4,7 +4,7 @@ import time
 import sys
 import os
 
-
+# Main class
 class NautilusPlug:
 
     def __init__(self, gateway_ip, gateway_port):
